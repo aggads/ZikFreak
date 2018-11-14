@@ -58,14 +58,14 @@ If you select no hours at all the day is closed for bookings entirely. Like this
 
 ### See the progress of the project
 
-https://aggads.github.io/Ajax-simple-web-service-request/index.html
-
-[![Website cv.lbesson.qc.to](https://github.com/aggads/ZikFreak)
 
 
-[![Maintenance](https://github.com/aggads/ZikFreak)
+[![Website cv.lbesson.qc.to](https://aggads.github.io/Ajax-simple-web-service-request/index.html)
 
-[![Ask Me Anything !]https://www.linkedin.com/in/samy-aggad-it/)
+
+[![Maintenance](https://aggads.github.io/Ajax-simple-web-service-request/index.html)
+
+[![Ask Me Anything !](https://www.linkedin.com/in/samy-aggad-it/)
 
 
 
