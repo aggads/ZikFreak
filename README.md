@@ -58,16 +58,12 @@ If you select no hours at all the day is closed for bookings entirely. Like this
 
 ### See the progress of the project
 
+[![Website cv.lbesson.qc.to](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://aggads.github.io/Ajax-simple-web-service-request/index.html)
 
 
-[![Website cv.lbesson.qc.to](https://aggads.github.io/Ajax-simple-web-service-request/index.html)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://aggads.github.io/Ajax-simple-web-service-request/index.html)
 
-
-[![Maintenance](https://aggads.github.io/Ajax-simple-web-service-request/index.html)
-
-[![Ask Me Anything !](https://www.linkedin.com/in/samy-aggad-it/)
-
-
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://aggads.github.io/Ajax-simple-web-service-request/index.html)
 
 ### Some picture of this project
 
