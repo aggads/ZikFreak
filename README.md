@@ -58,6 +58,10 @@ If you select no hours at all the day is closed for bookings entirely. Like this
 
 ### See the progress of the project
 
+Mockup pdf :
+
+> https://github.com/aggads/ZikFreak/blob/master/Mockup/ZikFreak.pdf
+
 [![Website cv.lbesson.qc.to](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://aggads.github.io/Ajax-simple-web-service-request/index.html)
 
 
