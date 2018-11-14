@@ -54,3 +54,21 @@ of duty.
 
 If you select no hours at all the day is closed for bookings entirely. Like this one
  can create weekly closed days in exemple sunday.
+
+
+### See the progress of the project
+
+https://aggads.github.io/Ajax-simple-web-service-request/index.html
+
+[![Website cv.lbesson.qc.to](https://github.com/aggads/ZikFreak)
+
+
+[![Maintenance](https://github.com/aggads/ZikFreak)
+
+[![Ask Me Anything !]https://www.linkedin.com/in/samy-aggad-it/)
+
+
+
+### Some picture of this project
+
+![Test Image 1](https://github.com/aggads/ZikFreak/blob/master/img/Capture.PNG)
