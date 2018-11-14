@@ -60,14 +60,14 @@ If you select no hours at all the day is closed for bookings entirely. Like this
 
 Mockup pdf :
 
-> https://github.com/aggads/ZikFreak/blob/master/Mockup/ZikFreak.pdf
+> https://drive.google.com/open?id=1qh6Zpn7PP0GfmaKIhVIgb-ccW3WeBk41
 
-[![Website cv.lbesson.qc.to](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://aggads.github.io/Ajax-simple-web-service-request/index.html)
+[![Website cv.lbesson.qc.to](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://github.com/aggads/ZikFreak)
 
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://aggads.github.io/Ajax-simple-web-service-request/index.html)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/aggads/ZikFreak)
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://aggads.github.io/Ajax-simple-web-service-request/index.html)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.linkedin.com/in/samy-aggad-it/)
 
 ### Some picture of this project
 
